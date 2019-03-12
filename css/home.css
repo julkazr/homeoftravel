@@ -1,0 +1,24 @@
+/* Font-family:
+    -main: 'Raleway', sans-serif;
+    -special: 'Lobster', cursive;
+    Colors:  blue #10316b rgba(16, 49, 107, 1)
+             yellow #ffce63 rgba(255, 206, 99, 1)*/
+
+nav {
+    font-family: 'Raleway', sans-serif;
+    font-size: 24px;
+}
+
+nav ul li a {
+    color: #10316b!important;
+}
+
+ul{
+    list-style: none outside none;
+    padding-left: 0;
+    margin: 0;
+}
+
+.slider-style {
+    margin-top: 115px;
+}
